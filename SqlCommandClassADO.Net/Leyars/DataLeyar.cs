@@ -1,6 +1,5 @@
 ﻿using System.Data;
 using System.Data.SqlClient;
-using System.Reflection.Metadata;
 
 namespace SqlCommandClassADO.Net.Leyars
 {
@@ -14,14 +13,9 @@ namespace SqlCommandClassADO.Net.Leyars
                 SqlConnection? con = null;
                 using(con = new SqlConnection(Connectionstring))
                 {
-                    if (con.State == ConnectionState.Closed)
-                    {
-                        con.Open();
-                    }
                     SqlCommand cmd = new SqlCommand();
                     cmd.Connection = con;
                     cmd.CommandType = CommandType.StoredProcedure;
-
                     cmd.CommandText = SpName;
                     cmd.CommandTimeout = 120000;
                     cmd.Parameters.Clear();
