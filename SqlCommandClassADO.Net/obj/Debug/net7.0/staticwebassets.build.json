@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jV21qYAMsrdl5HZrQmEc6O8z650gR3m2NQnWzqkm4i0=",
+  "Source": "SqlCommandClassADO.Net",
+  "BasePath": "_content/SqlCommandClassADO.Net",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
