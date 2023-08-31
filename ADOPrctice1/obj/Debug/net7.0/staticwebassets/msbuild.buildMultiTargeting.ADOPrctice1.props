@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ADOPrctice1.props" />
+</Project>

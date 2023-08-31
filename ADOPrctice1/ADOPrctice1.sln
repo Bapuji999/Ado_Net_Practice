@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOPrctice1", "ADOPrctice1.csproj", "{CF981517-0E3F-46D8-8E9A-F03A8D1E83EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF981517-0E3F-46D8-8E9A-F03A8D1E83EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF981517-0E3F-46D8-8E9A-F03A8D1E83EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF981517-0E3F-46D8-8E9A-F03A8D1E83EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF981517-0E3F-46D8-8E9A-F03A8D1E83EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4D8D8DC-C060-41FA-8194-E12F9160EC56}
+	EndGlobalSection
+EndGlobal
